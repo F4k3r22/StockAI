@@ -1,4 +1,4 @@
-Licencia RiveraAICloseLicense para el Modelo de NLP StockAI
+Licencia RiveraAICloseLicense(2006) para el Modelo de NLP StockAI
 
 Derechos de autor (c) 2024 Fredy Rivera. Todos los derechos reservados.
 
