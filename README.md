@@ -34,6 +34,6 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un problem
 
 ## Licencia
 
-Este proyecto está licenciado bajo los términos de RiveraAICloseLicense - ver el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo los términos de RiveraAICloseLicense - ver el archivo [LICENSE.txt](LICENSE.txt) para más detalles.
 
 
